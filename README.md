@@ -15,5 +15,5 @@
 * **React Hook Form + Zod** — form handling & validation
 * **Zustand** — state management
 * **TailwindCSS** — styling
-* **Vite - build
-* **JWT - some token
+* Vite - build
+* JWT - some token
